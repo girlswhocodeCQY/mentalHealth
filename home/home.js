@@ -1,4 +1,1 @@
-var buttonClicked = function(){
-
-  console.log("Girls who code!");
-}
+console.log('the home page has loaded!'); 

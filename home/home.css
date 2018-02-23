@@ -1,4 +1,46 @@
 body {
-  background-color: green;
-  font-size:40px;
+  padding-top: 80px;
+  text-align: center;
+  font-family: 'Mukta Malar', sans-serif;
+  background-size: cover;
+}
+
+.menu {
+ width: 300px;
+}
+
+.menu-item {
+  position: relative;
+  height: 300px;
+}
+
+.menu-image {
+  opacity: 1;
+  width: 100%;
+  transition: .5s ease;
+  height: 300px;
+}
+
+.image-overlay {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.menu-item:hover .menu-image {
+  opacity: .3;
+}
+
+.menu-text {
+  transition: .5s ease;
+  color: white;
+  font-size: 40px;
+  padding-bottom: 10px;
+}
+
+.menu-item:hover .menu-text {
+  color: rgb(63, 63, 63);
 }
