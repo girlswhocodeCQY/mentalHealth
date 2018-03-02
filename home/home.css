@@ -1,12 +1,32 @@
 body {
-  padding-top: 80px;
+  /*padding-top: 80px;*/
   text-align: center;
   font-family: 'Mukta Malar', sans-serif;
   background-size: cover;
 }
 
+#bootstrap-overrides .intro {
+  color: white;
+  background-image: url(https://parade.com/wp-content/uploads/2014/05/different-color-stars-ftr.jpg);
+  background-size: cover;
+  background-color: rgb(175, 212, 255);
+  padding: 100px;
+  margin: 0;
+  border: none;
+}
+
+#bootstrap-overrides h1 {
+  font-size: 84px;
+  padding: 20px;
+}
+
+#bootstrap-overrides a {
+  color: inherit;
+  text-decoration: inherit;
+}
+
 .menu {
- width: 300px;
+ padding: 30px;
 }
 
 .menu-item {
