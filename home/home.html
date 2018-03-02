@@ -1,62 +1,61 @@
+<!DOCTYPE html>
 <html>
    <head>
      <link rel="stylesheet" type="text/css" href="home.css"/>
      <script src="home.js"></script>
+     <!--BOOTSTRAP-->
+     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
    </head>
 
-  <body>
-    <h1>Welcome to <span>SITE NAME</span></h1><br>
-    <h2>(tiny girls who code class day!! woo! with Celina, Adina and Miriam!!!)</h2><br>
+   <body id="bootstrap-overrides">
+   <!--
+   things we need on the menu:
+   resources
+   music playlist
+   quiz
+   message board
+   inspirational quotes page
+   stress relief
+   mental health
+   -->
+   <div class="intro">
+     <h1>Website Title</h1>
+     <p>A website where you can relax a little.</p>
+   </div>
 
-    <!--
-    things we need on the menu:
-    resources
-    music playlist
-    quiz
-    message board
-    inspirational quotes page
-    stress relief
-    mental health
-    -->
-    <div class="menu">
+    <div class="menu .container-fluid">
+      <div class="row">
+       <div class="menu-item col-md-3">
+         <img class="menu-image" src="https://cdn.dribbble.com/users/266011/screenshots/2225097/open-uri20150902-3-1mx7h0c" width="300px">
+         <div class="image-overlay">
+           <div class="menu-text"><a href="../inspiration/inspiration.html">Inspirational Quotes</a></div>
+         </div>
+       </div>
 
-      <div class="menu-item">
-        <img class="menu-image" src="https://cdn.dribbble.com/users/266011/screenshots/2225097/open-uri20150902-3-1mx7h0c" width="300px">
-        <div class="image-overlay">
-          <div class="menu-text">Inspirational Quotes</div>
-        </div>
+       <div class="menu-item col-md-3">
+         <img class="menu-image" src="https://i.pinimg.com/564x/72/9a/72/729a72afd0485a7c79bb619d2f2607a9.jpg" width=200>
+         <div class="image-overlay">
+           <div class="menu-text"><a href="../music/music.html">Music</a></div>
+         </div>
+       </div>
+
+       <div class="menu-item col-md-3">
+         <img class="menu-image" src="https://is5-ssl.mzstatic.com/image/thumb/Purple7/v4/23/2d/e3/232de3aa-7f5d-6dd9-d192-48baecbb3f48/mzl.pcunrhca.jpg/246x0w.jpg" width=200>
+         <div class="image-overlay">
+           <!--NEED A LINK HERE-->
+           <div class="menu-text">Stress Relief</div>
+         </div>
+       </div>
+
+       <div class="menu-item col-md-3">
+         <img class="menu-image" src="https://images.pexels.com/photos/721168/pexels-photo-721168.jpeg?w=940&h=650&dpr=2&auto=compress&cs=tinysrgb">
+         <div class="image-overlay">
+           <div class="menu-text"><a href="../hotlines/hotlines.html">Resources</a></div>
+         </div>
       </div>
-
-      <!--miriam did this -->
-      <div class="menu-item">
-        <img class="menu-image" src="https://i.pinimg.com/564x/72/9a/72/729a72afd0485a7c79bb619d2f2607a9.jpg" width=200>
-        <div class="image-overlay">
-          <div class="menu-text">music is needed: destressing music </div>
-        </div>
-      </div>
-
-      <!--ADINA'S' -->
-      <div class="menu-item">
-        <img class="menu-image" src="https://is5-ssl.mzstatic.com/image/thumb/Purple7/v4/23/2d/e3/232de3aa-7f5d-6dd9-d192-48baecbb3f48/mzl.pcunrhca.jpg/246x0w.jpg" width=200>
-        <div class="image-overlay">
-          <div class="menu-text">STRESS RELIEF </div>
-        </div>
-      </div>
-
-      <!-- CELINA -->
-      <div class="menu-item">
-        <img class="menu-image" src="https://images.pexels.com/photos/721168/pexels-photo-721168.jpeg?w=940&h=650&dpr=2&auto=compress&cs=tinysrgb">
-        <div class="image-overlay">
-          <div class="menu-text">Resources</div>
-        </div>
-      </div>
-    </div>
-
-
-    <!-- more images that can be used  -->
-    <img src="http://d3aeoi5a6g6m4p.cloudfront.net/userblog/201710101607513623/cover/cover-_93197622_mediaitem93197621.jpg" width="300">
-    <img src="https://cdn.shopify.com/s/files/1/0232/9377/products/Blossom_Pop_web_large.jpg?v=1499725282" width="300px">
-    <img src="https://i.pinimg.com/736x/73/e9/79/73e979ee267a20a9a156dec2bab582fa--beautiful-wallpaper-iphone-wallpaper-iphone-galaxy.jpg" width=300px>
-  </body>
-
+     </div>
+   </div>
+ </body>
 </html>
