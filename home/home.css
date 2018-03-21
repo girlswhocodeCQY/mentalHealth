@@ -25,7 +25,7 @@ body {
 }
 
 .menu {
- padding: 30px;
+ padding: 20px;
 }
 
 .menu-item {
@@ -55,7 +55,7 @@ body {
 
 .menu-text {
   transition: .5s ease;
-  color: white;
+  color: rgb(95, 101, 112);
   font-size: 40px;
   padding-bottom: 10px;
 }
