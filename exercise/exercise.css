@@ -1,13 +1,125 @@
-body {
-  padding-top: 80px;
-  text-align: center;
-  font-family: 'Mukta Malar', sans-serif;
-  background-color: #8ac7cc;
-}
 
-h1 {
-  font-size: 100px;
-  text-align: center;
-  font-family: 'Mukata Malar', sans-serif;
-  color: blue;
-}
+<html>
+
+   <head>
+     <link rel="stylesheet" type="text/css" href="exercise.css"/>
+     <script src="exercise.js"></script>
+     <!--<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">-->
+   </head>
+
+   <!--
+   <nav class="navbar fixed-top navbar-expand-md navbar-dark bg-dark">
+     <ul class="navbar-nav">
+       <li><a class="navbar-brand" href="../home/home.html">Home</a></li>
+       <li><a class="nav-item nav-link" href="../inspiration/inspiration.html">Inspiration</a></li>
+       <li><a class="nav-item nav-link" href="../music/music.html">Music</a></li>
+       <li><a class="nav-item nav-link" href="../hotlines/hotlines.html">Resources</a></li>
+       <li><a class="nav-item nav-link active" href="#">Exercises</a></li>
+       <li><a class="nav-item nav-link" href="../quiz/quiz.html">Quiz</a></li>
+       <li><a class="nav-item nav-link" href="../info/info.html">Info</a></li>
+     </ul>
+   </nav>
+ -->
+
+   <!-- TODO: use CSS to make the page beautiful :) -->
+   <div class= "Introduction-Exercises to Breathe Easy">
+   <h1> Exercises to Breathe Easy </h1>
+   <p> It is always great to exercise your mind and your body. Your body is a temple and needs time to take a breather! These exercises are essential to practice everyday. You are able to focus on yourself and release the stress around you.</p>
+
+</div>
+
+   <div class= "Breathing">
+   <h2> The Importance of Taking a Breathe </h2>
+   <p> Breathing is vital to survival and most importantly the key to life. To live is to breathe! Eight percent of adults in the United States, use a form of meditation from yoga, massage therapy, and so much more which helps with breathing easy. These exercises can take from ten minutes to hours of your day just to take a breather! Breathing at a fast rate is unhealthy, and increases anxiety.Ten percent of teenagers and forty percent of adults in our nation face an anxiety disorder. Therefore, taking the time out the day to just breathe can lessen the stress. Let's start off with a breathing exercise. </p>
+  <img src="https://media1.tenor.com/images/8616950e9e424419072c4b69603968db/tenor.gif">
+  <img src= "https://media.tenor.co/images/29a244a1cd70a6973479390798f701d3/raw">
+  <img src= "https://life-cdn.global.ssl.fastly.net/life/wp-content/uploads/2016/04/circle-gif-2.gif">
+  <img src= "https://static01.nyt.com/images/2016/10/21/well/breathing1/breathing1-master768-v2.gif">
+  <p> This is the way you should breathe. Taking a deep breath removes the burdens that lye heavy among your shoulder. Holding your breath for approximately four second  and releasing in intervals, will assist you with stress level. You must complete this exercise with a clear state of mind.</p>
+
+</div>
+
+<div class= "Exercising Your Body and Soul">
+<h2> Exercising Your Body and Soul </h2>
+<p> Another great exercise to relieve yourself from mental stress, is to exercise. Laying down, and becoming a couch potato should never be a solution! Exercising physically and mentally, such as meditation, will assist your health. Sign up for some yoga classes as well.  It helps your sleep quality, advance your mindfulness, and eliminate stress hormones. After you sweat it out, remember to take a glance at the mirror and remind yourself how great you are!</p>
+<img src= " https://campusriot.com/wp-content/uploads/2014/05/Couch-Potato-GIF.gif">
+<img src="https://media.giphy.com/media/pvAbjDwBIoNm8/giphy.gif">
+<img src= "http://78.media.tumblr.com/066b6658f94dfbf201a7db7d03a92591/tumblr_inline_od38fedYAf1sndsvm_500.gif">
+<img src= "https://media1.giphy.com/media/3o7qE4gcYTW1zZPkre/giphy.gif">
+<img src= "https://media.giphy.com/media/3ornk8qaF9ytl9zmY8/giphy.gif">
+<img src= "https://media.giphy.com/media/26tniIl2HHKZCMLgA/giphy.gif">
+<img src= "https://i.imgur.com/Zx2bSTY.gif">
+<img src= "https://i.pinimg.com/originals/b0/6c/2a/b06c2a5db4fe34a6dad172578aeffd0c.gif">
+
+</div>
+
+<div class= "Writing and Drawing">
+<h2> Writing and Drawing How You Feel </h2>
+<p> Writing and drawing how you feel is one way to handle emotions. It allows you to express yourself with no boundaries. You can alway write or draw how you feel with no limitations. After creating your work, remember to think about what you're grateful for as well. Keeping a positive outlook from stressful situations, is very important. If you really want to challenge yourself, keep all your pieces in a box, and every week reread what you wrote or drew. Analyze it, and search for a goal that can assist you from these emotions.</p>
+<img src=" https://media.giphy.com/media/ydMElLbfD72yA/giphy.gif">
+<img src="http://rs1187.pbsrc.com/albums/z393/KristineChavezRodriguez/writing.gif?w=280&h=210&fit=crop">
+
+</div>
+
+<div class= "Listening to Music">
+  <h2> Jamming it Out! </h2>
+  <p>Listen to soothing music to breathe easy! It will relax your soul. We have created a playlist with inspirational, fun and soothing music. Try to listen to some music and dance it out. Create a funny video of you lip singing to bring a laugh for tomorrow. You can also light a candle and set yourself a nice warm bath, while listening to your favorite music. Creating this soothing atmosphere with candles is called aromatherapy, well known for decreasing stress and anxiety.</p>
+  <img src="https://media.giphy.com/media/12M8kxLaLRvz44/giphy.gif">
+  <img src= "https://media.giphy.com/media/26DNdbyBgw0FIKouI/source.gif">
+  <img src= "https://img.gifmagazine.net/gifmagazine/images/534528/original.gif">
+  <img src= "https://78.media.tumblr.com/tumblr_lxyoj3ogdR1qzm5y8o1_250.gif">
+  <img src= "https://78.media.tumblr.com/f127c390462e313b0106d3d2114f9b45/tumblr_inline_nkgxqvGly01r32gm1.gif">
+  <img src= "https://media.giphy.com/media/tqfS3mgQU28ko/giphy.gif">
+  <img src= "https://media.tenor.com/images/9ffccf57deb567b4611611dc8169fbde/tenor.gif">
+  <img src= "http://i.imgur.com/N92fBKd.gif">
+  <img src= "https://thumbs.gfycat.com/AffectionateHauntingLangur-size_restricted.gif">
+  <img src= "http://i.imgur.com/E8Ng9Zz.gif">
+
+</div>
+
+<div class= "Spending Time with Family, Friends, and Pets">
+<h2> Spending Time with Family, Friends, and Pets </h2>
+<p> Spending time with friends, family, and pets brings happiness. You will have company and a shoulder to lay on. You can have a person to lean on or a pet to admire. Spending time with pets decreases anxiety and can assist with stress as well. If you don't have a pet, take a trip outside for a breathe and wasl to your local pet store. Trust me, it's worth it to see all the adorable animals.</p>
+<img src="https://1.bp.blogspot.com/-VWTiiEGCLNg/WO5BnfU01GI/AAAAAAAGj9o/FAosrhH8m4AaKYiRobVlFUOEnludyemfgCJoC/w346-h208-rw/tumblr_n15aq2KPov1s2yegdo1_400.gif">
+<img src="http://www.awesomelycute.com/gallery/2014/01/awesomelycute-animals-2858.gif">
+<img src="https://78.media.tumblr.com/21c2ff099ce50cc52c63731d68bddb68/tumblr_on6kpnupE61tfmrz4o1_500.gif">
+<img src="http://www.truesides.com/wp-content/uploads/2015/11/idiva_gifs_10.gif">
+<img src="http://38.media.tumblr.com/b19558ab0ef88f45d7ba2d04fdbcd718/tumblr_n77x0mwMq41r3t765o9_1280.gif">
+
+</div>
+
+<div class= "Don't Procrastinate and Learn how to say “NO!”">
+<h2> Don't Procrastinate and Learn how to say “NO!” </h2>
+<p> Procrastination is a leading cause of stress. Being overwhelmed, especially as a parent, a student, and living in a big city, is extremely stressful. In order to prevent procrastination, is being organized. Setting yourself a To-Do List to assist you getting multiple things done, is very important. However, do not get overworked. Be precise with your time and use it wisely. Remember, you are not a robot! Take a break and breathe easy. Also, remember practicing to say no. If you are not able to take the time to accomplish another assignment, especially when you have multiple jobs to do, say no in a former matter. Its okay to say no when you are not able to do something.</p>
+  <img src="https://media.giphy.com/media/QV5sMr0LaS89y/giphy.gif">
+  <img src="https://media.giphy.com/media/BwFWUvOSccGbe/giphy.gif">
+  <img src="http://i.imgur.com/UPqXoud.gif">
+  <img src="https://i2.wp.com/wesleying.org/wp-content/uploads/2012/12/tumblr_mb9byx7fmw1qfelxu.gif?resize=500%2C281">
+
+</div>
+
+<div class= "Laughing">
+<h2> Have A Laugh! </h2>
+<p> Laughing is a great way to relieve stress. Listening to inspirational and funny podcast is one way to get a great laugh. Streaming on media for memes can also be enjoyable. Reading a book for a good laugh is always an answer.Books like Chicken Soup for the soul has great stories for young adult and adults to be inspired and have a laugh. Stream netflix onto the comedy section. Here are some GIFS to put a smile on your face.</p>
+<img src="https://i.pinimg.com/originals/b9/c6/4a/b9c64a58b961fed9586a50f96a09a9ee.gif">
+<img src="http://33.media.tumblr.com/1493d3ae1554493cac81e3c680cd7ea5/tumblr_njjbs3hwNl1rppi2wo1_500.gif">
+<img src="https://media3.giphy.com/media/eYgVBZKw2LG6Y/giphy.gif">
+<img src="https://zippy.gfycat.com/NearConfusedBoubou.gif">
+<img src="https://media1.tenor.com/images/da14adf1310a0cf7f9d31518f5acc8b8/tenor.gif?itemid=3447301">
+<img src="http://rs415.pbsrc.com/albums/pp236/Keefers_/Keefers_Funny%20Animals/Keefers_FunnyAnimals1001.gif~c200">
+<img src="https://i.imgur.com/nQA3ayB.gif">
+<img src="https://media.gifmagazine.net/rszscalegif/R9yk_5cf90lu5AMQ-_AepN042TU=/249/190/200/645460/200.gif?1444319899">
+<img src="http://37.media.tumblr.com/b95c90fe1ffddb6f1a37a4fb20609be6/tumblr_mrbxsiVkxN1sezoa7o1_400.gif">
+<img src="https://media0.giphy.com/media/l396M9j0EOinfzPjy/giphy.gif">
+
+</div>
+
+<div class= "Always Rememeber">
+<h1> Please Remember... </h1>
+<img src="https://i.pinimg.com/originals/5a/2d/3e/5a2d3e6c8b8ea4c2e5a9955b97aca070.jpg">
+<img src="http://www.dringrames.org/wp-content/uploads/2018/03/Pictures-Coloring-Pages-funny-Pictures-Coloring-Pages-For-Pictures-Coloring-Pages-Photo-gifs-animation-encouraging-quotes-sayings-life-motivational.gif.gif">
+<img src="https://media1.tenor.com/images/c872432584fe0688da71f53f81d074e5/tenor.gif?itemid=7901984">
+<img src="https://media.giphy.com/media/fgOnlssAzAGAg/giphy.gif">
+<img src="https://media.giphy.com/media/3owyoYqpufITS7pPeE/giphy.gif">
+
+</div>
