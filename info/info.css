@@ -1,14 +1,20 @@
-body {
+
+  body {
    text-align:center;
    background-image: url("http://www.powerpointhintergrund.com/uploads/2017/06/iphone-5-wallpaper-night-sky-blue-night-sky-mac-wallpaper-24.jpeg");
    color: #000000;
    background-size: cover;
+   padding-top: 5%;
+   font-weight: bolder;
+
 }
+
 
 #bootstrap-overrides h1{
   font-size: 60px;
   font-family: inconsolata, sans-serif;
-  border: 2px solid #ccb5b5;
+  border: 2px solid #cc96b5;
+  color: 96f9ff
 }
 
 #bootstrap-overrides h2{
@@ -18,12 +24,21 @@ body {
 #bootstrap-overrides h3 {
  font-family: Arial, serif;
  font-style: oblique;
+ color: dd6ab3
 }
 
 #bootstrap-overrides a {
-  color: #ffffff;
+  color: #dd6ab3;
 }
 
 #bootstrap-overrides a:hover {
-  color:#000000;
+  color:#f4d1f9;
 }
+
+
+#bootstrap-overrides li{
+
+ font-style: oblique;
+ font size: 60px;
+ font-family: inconsolata, sans-serif;
+  }
