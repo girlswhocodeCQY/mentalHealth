@@ -1,6 +1,16 @@
-body {
+#bootstrap-overrides {
   padding-top: 80px;
   text-align: center;
   font-family: 'Mukta Malar', sans-serif;
-  background-image: url("paper.gif");
+  background-image: url("https://78.media.tumblr.com/c1fa63d521bb43f91fe4e916540a5938/tumblr_onslqu7uhQ1w8o6t8o1_500.gif");
+
+}
+#bootstrap-overrides h1 {
+    color: white;
+    text-align: center;
+}
+
+p {
+    font-family: verdana;
+    font-size: 145px;
 }
