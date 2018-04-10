@@ -2,7 +2,7 @@ console.log('the inspiration page has loaded!');
 
 // TODO
 // put more interesting quotes in here! (use the ones from the document)
-var quotesList = [ "Nothing is impossible, the word itself says Im possible!",
+var quotesList = [
 "Life is not about waiting for the storm to pass, its about learning to dance in the rain.",
 "breathe :)", "Don't wait for the right opportunity, create it.",
 "Work hard in silence, let your success be the noise.",
