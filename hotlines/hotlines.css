@@ -4,6 +4,12 @@ body {
   font-family: 'Mukta Malar', sans-serif;
   background-color: #15abce;
 }
+
+body .pregnancy, .Depression {
+      list-style-position: inside;
+      font-size: 150%
+}
+
 h3 {
   text-align: center;
 }
@@ -12,6 +18,3 @@ p {
   font-size: 150%
 }
 
-li {
-  font-size: 150%
-}
